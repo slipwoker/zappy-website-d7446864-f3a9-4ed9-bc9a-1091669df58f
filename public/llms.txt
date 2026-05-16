@@ -1,0 +1,69 @@
+# השתלות שיער בתאילנד — Generative Engine Optimization Map
+
+> A hair transplant clinic or medical tourism service based in Thailand, offering hair restoration procedures to clients likely traveling from abroad for affordable, high-quality treatments. The business operates in the medical tourism space, combining professional healthcare services with the appeal of Thailand as a destination.
+
+---
+
+## Pages
+
+### בית
+https://-d7446864.zappy5.app
+A hair transplant clinic or medical tourism service based in Thailand, offering hair restoration procedures to clients likely traveling from abroad for affordab
+
+## Legal & Policy
+
+### Privacy Policy
+https://-d7446864.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-d7446864.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-d7446864.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-d7446864.zappy5.app
+- Endpoint: https://-d7446864.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About השתלות שיער בתאילנד
+A hair transplant clinic or medical tourism service based in Thailand, offering hair restoration procedures to clients likely traveling from abroad for affordable, high-quality treatments. The business operates in the medical tourism space, combining professional healthcare services with the appeal of Thailand as a destination.
+
+## Services/Products
+- השתלות שיער
+
+## Target Audience
+- צעירים מקצועיים
+- תיירי בריאות יוקרתיים
+- גברים עם נשירת שיער
+
+## Industry
+Medical Tourism / Hair Transplant
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-d7446864.zappy5.app/sitemap.xml
+- Robots: https://-d7446864.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-d7446864.zappy5.app/llms-full.txt
