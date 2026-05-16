@@ -2,13 +2,13 @@
 
 A hair transplant clinic or medical tourism service based in Thailand, offering hair restoration procedures to clients likely traveling from abroad for affordable, high-quality treatments. The business operates in the medical tourism space, combining professional healthcare services with the appeal of Thailand as a destination.
 
-Source: https://-d7446864.zappy5.app
+Source: https://example.com
 
 ---
 
 ## hair transplant tourism — השתלות שיער בתאילנד
 
-URL: https://-d7446864.zappy5.app
+URL: https://example.com
 Description: A hair transplant clinic or medical tourism service based in Thailand, offering hair restoration procedures to clients likely traveling from abroad for affordab
 
 hair transplant tourism — השתלות שיער בתאילנד
@@ -817,7 +817,7 @@ hair transplant tourism
 
 ## מדיניות פרטיות
 
-URL: https://-d7446864.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1096,7 +1096,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-d7446864.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1384,7 +1384,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-d7446864.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
