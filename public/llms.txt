@@ -28,7 +28,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: thaihairwhy@gmail.com
+- Phone: 0547970748
+- Phone (tel): tel:0547970748
+- Address: מעיין 17, ראש העין, 4853342, ישראל 
 
 ### Contact form
 - URL: https://example.com
